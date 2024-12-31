@@ -22,12 +22,12 @@ To install this application follow the steps,
 2. **Compile the Program**
 - Use the following command to compile the program:
   ```bash
-  javac filename.java
+  javac guess.java
   ```
 3. **Run the Program** 
 - Use the following command to run the compiled program:
   ```bash
-  java filename
+  java guess
   ```
 
 ## Contributing
