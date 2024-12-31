@@ -5,11 +5,11 @@
 ## Table of contents:
 1. [Technologies used](#technologies-used)
 2. [Installation](#installation)
-
+3. [Contributing](#contributing)
 
 ## Technologies used:
  - Java
- -  Swing
+ - Swing
 
 ## Installation:
 To install this application follow the steps,
